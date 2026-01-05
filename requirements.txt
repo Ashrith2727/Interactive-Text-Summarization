@@ -1,0 +1,9 @@
+transformers>=4.0.0
+torch>=1.7.0
+sentencepiece
+nltk
+tensorflow
+tensorflow-datasets
+scikit-learn
+tf-keras
+beautifulsoup4
