@@ -30,14 +30,15 @@ The project supports **interactive mode** via the command line and can be extend
 
 ```
 
-interactive-text-summarizer/
-├── run.py
-├── model/
-│   └── summarizer_model.h5
-├── data/
-│   └── sample_text.txt
-├── requirements.txt
-└── README.md
+Interactive-Text-Summarization/
+│
+├── InteractiveTextSummarizer.py   
+├── preprocessing.py               
+├── seq_model.py                   
+├── run.py                         
+├── requirements.txt               
+├── README.md                      
+├── __pycache__/                   
 
 ````
 
